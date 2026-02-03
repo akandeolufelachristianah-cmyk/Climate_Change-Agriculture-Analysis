@@ -1,2 +1,2 @@
 # Climate_Change-Agriculture-Analysis
-![Agricultural Productivity Dashboard](Climate_Agricultural Productivity.png)
+![Agricultural Productivity Dashboard](Climate_Agricultural%20Productivity.png)
