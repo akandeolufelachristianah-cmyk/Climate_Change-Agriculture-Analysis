@@ -3,3 +3,4 @@
 ## Project Goal
 I analyzed this Kaggle dataset to see how climate factors like CO2 and Temperature affect food production. I wanted to identify which regions are struggling and which farming strategies actually work.
 ![Economic Impact Dashboard](Climate_Economic%20Impact.png)
+![Food Security Dashboard](Climate_Food%20Security.png)
